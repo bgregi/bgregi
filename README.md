@@ -1,4 +1,4 @@
-### Olá 👋
+### Hello! 👋
 
 - 🌱 I’m currently learning JavaScript, CSS and HTML
 - 📫 How to reach me: brunogeraldieng@gmail.com
